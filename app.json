@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Aman's Café",
+    "slug": "aman-cafe-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#fbf7f2" },
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.aman.cafe" },
+    "android": { "package": "com.aman.cafe", "adaptiveIcon": { "backgroundColor": "#fbf7f2" } }
+  }
+}
